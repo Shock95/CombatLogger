@@ -1,0 +1,4 @@
+name: CombatLogger
+main: combat.Combat
+version: "1.0.0"
+api: ["1.0.0"]
